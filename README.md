@@ -16,3 +16,12 @@
 | [push_swap](https://github.com/RuiPires999/Push_swap) | 02 | <img src="https://img.shields.io/badge/in%20progress-grey" /> |<img src="https://img.shields.io/github/languages/top/RuiPires999/Push_swap" /> | <img src="https://img.shields.io/badge/0%20%2F%200%20-%20grey" /> | <img src="https://img.shields.io/github/last-commit/RuiPires999/Push_swap" /> |
 
 </div>
+
+## EXAMS
+<div align="center">
+  
+  | Exam | Rank | Status | Date | Score |
+  | :---: | :---: | :---: | :---: | :---: |
+  | Exam 02 | 02 | - | - | - | - |
+  
+</div>
