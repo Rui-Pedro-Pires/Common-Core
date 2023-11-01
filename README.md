@@ -1,4 +1,8 @@
 # Common-Core
+<div align="center">
+  <img src="https://github.com/RuiPires999/Website-Images/blob/main/Common%20Core%20(1).png" width="650"/>
+</div>
+
 
 ## PROJECTS
 <div align="center">
