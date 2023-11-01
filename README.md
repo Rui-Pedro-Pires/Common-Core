@@ -1,5 +1,5 @@
 # Common-Core
-<div align="center">
+<div align="left">
   <img src="https://github.com/RuiPires999/Website-Images/blob/main/Common%20Core%20(1).png" width="650"/>
 </div>
 
@@ -19,7 +19,7 @@
 </div>
 
 ## EXAMS
-<div align="center">
+<div align="left">
   
   | Exam | Rank | Status | Date | Score |
   | :---: | :---: | :---: | :---: | :---: |
