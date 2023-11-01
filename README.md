@@ -1,12 +1,12 @@
 # Common-Core
 <div align="center">
-  <img src="https://github.com/RuiPires999/Website-Images/blob/main/Common%20Core%20(1).png" width="850"/>
+  <img src="https://github.com/RuiPires999/Website-Images/blob/main/Common%20Core%20(1).png" width="650"/>
 </div>
 
 
 ## PROJECTS
-<img align="right" src="https://github.com/RuiPires999/Website-Images/blob/main/Opening%20dor.png" heigth="300" width="200"/>
-<div align="center">
+<img align="right" src="https://github.com/RuiPires999/Website-Images/blob/main/Opening%20dor.png" heigth="200" width="200"/>
+<div align="left">
 
 | Project | Rank | Status | Language | Score | Activity |   
 | :---: | :---: | :---: | :---: | :---: | :---: |
