@@ -5,7 +5,7 @@
 
 
 ## PROJECTS
-<img align="right" src="https://github.com/RuiPires999/Website-Images/blob/main/Opening%20dor.png" heigth="300" width="130"/>
+<img align="right" src="https://github.com/RuiPires999/Website-Images/blob/main/Opening%20dor.png" heigth="300" width="100"/>
 <div align="left">
 
 | Project | Rank | Status | Language | Score | Activity |   
