@@ -26,5 +26,6 @@
   | Exam | Rank | Status | Date | Score |
   | :---: | :---: | :---: | :---: | :---: |
   | Exam 02 | 02 | Done | - | 100 |
+  | Exam 03 | 03 | Done | 15/12/2023 | 100 |
   
 </div>
