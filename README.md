@@ -5,8 +5,6 @@
 
 
 ## PROJECTS
-<img align="right" src="https://github.com/RuiPires999/Website-Images/blob/main/Opening%20dor.png" heigth="300" width="100"/>
-<div align="left">
 
 | Project | Rank | Status | Language | Score | Activity |   
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -25,7 +23,7 @@
   
   | Exam | Rank | Status | Date | Score |
   | :---: | :---: | :---: | :---: | :---: |
-  | Exam 02 | 02 | Done | - | 100 |
-  | Exam 03 | 03 | Done | 15/12/2023 | 100 |
+  | Exam 01 | 02 | <img src="https://img.shields.io/badge/done-sucess" /> | - | <img src="https://img.shields.io/badge/100%20%2F%20100%20-sucess" /> |
+  | Exam 01 | 03 | <img src="https://img.shields.io/badge/done-sucess" /> | 15/12/2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20-sucess" /> |
   
 </div>
