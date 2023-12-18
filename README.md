@@ -17,11 +17,11 @@
 | [FdF](https://github.com/RuiPires999/fdf) | 02 | <img src="https://img.shields.io/badge/done-sucess" /> |<img src="https://img.shields.io/github/languages/top/RuiPires999/fdf" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20-sucess" /> | <img src="https://img.shields.io/github/last-commit/RuiPires999/fdf" /> |
 | Philosophers | 03 | <img src="https://img.shields.io/badge/in%20progress-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
 | Minishell | 03 | <img src="https://img.shields.io/badge/in%20progress-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
-| NetPractice | 04 | <img src="https://img.shields.io/badge/in%20progress-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
-| Cub3D | 04 | <img src="https://img.shields.io/badge/in%20progress-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
-| Inception | 05 | <img src="https://img.shields.io/badge/in%20progress-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
-| Webserv | 05 | <img src="https://img.shields.io/badge/in%20progress-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
-| Ft_transcendence | 06 | <img src="https://img.shields.io/badge/in%20progress-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
+| NetPractice | 04 | <img src="https://img.shields.io/badge/not%20done%20-grey?style=grey" />  | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
+| Cub3D | 04 | <img src="https://img.shields.io/badge/not%20done%20-grey?style=grey" />  | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
+| Inception | 05 | <img src="https://img.shields.io/badge/not%20done%20-grey?style=grey" /> | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
+| Webserv | 05 | <img src="https://img.shields.io/badge/not%20done%20-grey?style=grey" />  | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
+| Ft_transcendence | 06 | <img src="https://img.shields.io/badge/not%20done%20-grey?style=grey" /> | <img src="https://img.shields.io/badge/none-grey?style=flat"/> | <img src="https://img.shields.io/badge/0%20%2F%20100-grey?style=grey"/> | <img src="https://img.shields.io/badge/none-darkblue?style=flat&logo=none&label=last%20commit"/> |
 
 </div>
 
@@ -32,7 +32,7 @@
   | :---: | :---: | :---: | :---: |
   | Exam 02 | <img src="https://img.shields.io/badge/done-sucess" /> | 08/11/2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20-sucess" /> |
   | Exam 03 | <img src="https://img.shields.io/badge/done-sucess" /> | 15/12/2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20-sucess" /> |
-  | Exam 04 | <img src="https://img.shields.io/badge/not%20done%20-grey?style=grey" />| ... | ... |
+  | Exam 04 | <img src="https://img.shields.io/badge/not%20done%20-grey?style=grey" /> | ... | ... |
   | Exam 05 | <img src="https://img.shields.io/badge/not%20done%20-grey?style=grey" /> | ... | ... |
   | Exam 06 | <img src="https://img.shields.io/badge/not%20done%20-grey?style=grey" /> | ... | ... |
 </div>
