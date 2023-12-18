@@ -1,6 +1,6 @@
 # Common-Core
 <div align="left">
-  <img src="https://github.com/RuiPires999/Website-Images/blob/main/Common%20Core%20(1).png" width="650"/>
+  <img src="https://github.com/Rui-Pedro-Pires/Website-Images/blob/main/CommonCore.png" width="650"/>
 </div>
 
 
@@ -23,7 +23,7 @@
   
   | Exam | Rank | Status | Date | Score |
   | :---: | :---: | :---: | :---: | :---: |
-  | Exam 01 | 02 | <img src="https://img.shields.io/badge/done-sucess" /> | - | <img src="https://img.shields.io/badge/100%20%2F%20100%20-sucess" /> |
+  | Exam 01 | 02 | <img src="https://img.shields.io/badge/done-sucess" /> | 08/11/2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20-sucess" /> |
   | Exam 01 | 03 | <img src="https://img.shields.io/badge/done-sucess" /> | 15/12/2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20-sucess" /> |
   
 </div>
